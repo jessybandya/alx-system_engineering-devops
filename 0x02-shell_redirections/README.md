@@ -1,1 +1,1 @@
-README note.
+Shell I/O redirections
